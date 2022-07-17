@@ -1,4 +1,4 @@
 node_modules
 .env
 agroic-instance.pem
-dump
+dumpgit push -u origin main
